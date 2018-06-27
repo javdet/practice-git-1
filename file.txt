@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Foo is the capital of France
+Bar is the capital of France
